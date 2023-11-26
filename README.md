@@ -6,7 +6,7 @@ ScheduleAI is an automatic hour-by-hour scheduling system designed for students 
 npm (v17.24.0 or later)
 
 # Build Instruction
-Clone this repository git clone https://github.com/gggonzalez03/schedule-ai.git
+Clone this repository git clone https://github.com/Totaedandan/scheduleAI.git
 cd into the folder schedule-ai
 Run npm install
 Run npm start
