@@ -1,0 +1,41 @@
+#taskdashboard-main {
+  display: flex;
+  flex-direction: row;
+}
+
+#taskdashboard-left-column {
+  display: flex;
+  flex-direction: column;
+  padding-left: 4em;
+  padding-right: 1em;
+  padding-top: 2em;
+  align-items: center;
+}
+
+#taskdashboard-logo {
+  width: 180px;
+  height: 94px;
+  margin-bottom: 2em;
+}
+
+#taskdashboard-center-column {
+  display: flex;
+  width: 54em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+#taskdashboard-right-column {
+  display: flex;
+  padding-right: 4em;
+}
+
+#taskdashboard_taskedit_section {
+  margin-top: 9em;
+}
+
+#taskdashboard-today {
+  margin-top: 3em;
+  color: #A8A8A8;
+  font-weight: 300;
+}
